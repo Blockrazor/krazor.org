@@ -15,7 +15,7 @@ The coins to be distributed through Blockrazor are time-locked at the protocol l
 The distribution of coins through Blockrazor is transparent and publicly auditable. The [code running the site](https://github.com/Blockrazor/blockrazor) is open source and publicly auditable. Blockrazor's treasury wallet is publicly auditable by using the [public view key](#) to see incoming transactions, and examining the [key images](#) that are updated with every transfer (and are cryptographically provable to be complete).
 
 ### How do I get some Krazor?
-You can [mine it](MINING.md), or earn some by completing [Blockrazor bounties](https://blockrazor.org/bounties).
+You can [mine it](mining.md), or earn some by completing [Blockrazor bounties](https://blockrazor.org/bounties).
 
 If you run a cryptocurrency exchange and you add Krazor support, you should send a pull request to update this page and provide a link.
 
@@ -32,7 +32,7 @@ There are numerous differences and the two projects will continue to diverge, pl
 
 A cardinal sin that many open source developers make is to place themselves above others. "I founded or am a regular contributor to this project thus my intellect is superior to that of others". It's immodest and rude, and usually inaccurate, but it's the norm for cryptocurrencies. Monero is better than most, but it's definitely no exception to the rule. The *vision* is decided upon by an established group of developers and all proposed changes to the codebase are judged against this vision. 
 
-The contribution policy used by Krazor is called the Collective Code Construction Contract (C4) with the *Serbian method* for problem solving. It's the result of 20 years of research by by Pieter Hintjens as he worked on the ZeroMQ project, and the proof that it works is in the results it delivers. Krazor and Blockrazor exist in part to continue this research.
+The contribution policy used by Krazor is called the [Collective Code Construction Contract (C4)](https://github.com/Blockrazor/blockrazor/blob/master/DESCRIPTIVE_C4.MD) with the *Serbian method* for problem solving. It's the result of 20 years of research by by Pieter Hintjens as he worked on the ZeroMQ project, and the proof that it works is in the results it delivers. Krazor and Blockrazor exist in part to continue this research.
 
 Monero has ostensibly adopted the C4, but they don't actually use it. A keen observer will also note that they have even modified the C4 document in their repository to reinstate central planning. 
 
