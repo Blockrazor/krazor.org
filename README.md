@@ -12,10 +12,10 @@ Half the supply will be distributed through Blockrazor, and the other half to mi
 
 The coins to be distributed through Blockrazor are time-locked at the protocol level and a new batch will be made available annually for the first 10 years. This can be verified by examining the blockchain.
 
-The distribution of coins through Blockrazor is publicly auditable. The [code running the site](https://github.com/Blockrazor/blockrazor) is open completely open source and publicly auditable. Blockrazor's treasury wallet is publicly auditable with the public view key and publicly available key images that are updated with every transfer and cryptographically provable to be complete.
+The distribution of coins through Blockrazor is transparent and publicly auditable. The [code running the site](https://github.com/Blockrazor/blockrazor) is open source and publicly auditable. Blockrazor's treasury wallet is publicly auditable by using the [public view key](#) to see incoming transactions, and examining the [key images](#) that are updated with every transfer (and are cryptographically provable to be complete).
 
 ### How do I get some Krazor?
-You can [mine it](MINING.md), or earn some by completing [Blockrazor bounties](https://blockrazor.org/bounties). You can also buy some on Blockrazor if anyone is selling. 
+You can [mine it](MINING.md), or earn some by completing [Blockrazor bounties](https://blockrazor.org/bounties).
 
 If you run a cryptocurrency exchange and you add Krazor support, you should send a pull request to update this page and provide a link.
 
